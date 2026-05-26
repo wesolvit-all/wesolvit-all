@@ -1,4 +1,4 @@
-# Hi, I'm Dryele 👋
+# Hi👋
 
 Technology professional with a multidisciplinary background in engineering, financial markets, data analysis and AI-driven operations.
 
