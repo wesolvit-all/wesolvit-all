@@ -43,6 +43,7 @@ My background includes:
 
 ## 🌎 Portfolio & Website
 🔗 https://site-wesolvit.vercel.app/
+[Portfólio](./portfolio)
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/dryele-sasso-119654b0
