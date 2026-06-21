@@ -42,8 +42,8 @@ My background includes:
 - Automation and Productivity Projects
 
 ## 🌎 Portfolio & Website
-🔗 https://site-wesolvit.vercel.app/
-[Portfólio](./portfolio)
+- https://site-wesolvit.vercel.app/
+- [Portfólio](./portfolio)
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/dryele-sasso-119654b0
